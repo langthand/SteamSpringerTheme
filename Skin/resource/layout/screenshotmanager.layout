@@ -49,9 +49,9 @@
 
 	colors
 	{
-		BorderThumbnailUnpublished="0 0 0 255"
-		BorderThumbnailUploaded="0 0 0 255"
-		BorderThumbnailPublished="0 0 0 255"
+		BorderThumbnailUnpublished="white"
+		BorderThumbnailUploaded="white"
+		BorderThumbnailPublished="white"
 		BorderThumbnailSelected="cButtonHover"
 	}
 
@@ -120,7 +120,7 @@
 
 		publishcaption
 		{
-			textcolor="222 222 222 255"
+			textcolor="122 122 122 255"
 			font-size=17
 			inset=2
 			font-style="italic"
